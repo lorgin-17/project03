@@ -1,0 +1,5 @@
+*.deb
+my_git_data/
+my_git_META/
+deb_reports/*/data/
+deb_reports/*/meta/
